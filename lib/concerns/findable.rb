@@ -10,13 +10,5 @@ module Findable
     Song.all.detect{|a| a.name == name}
   end
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+end
 end
